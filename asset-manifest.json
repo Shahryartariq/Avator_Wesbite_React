@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Avator_Wesbite_React/static/css/main.9c00a2ce.chunk.css",
+    "main.js": "/Avator_Wesbite_React/static/js/main.32a1efda.chunk.js",
+    "main.js.map": "/Avator_Wesbite_React/static/js/main.32a1efda.chunk.js.map",
+    "runtime-main.js": "/Avator_Wesbite_React/static/js/runtime-main.d6edf766.js",
+    "runtime-main.js.map": "/Avator_Wesbite_React/static/js/runtime-main.d6edf766.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Avator_Wesbite_React/static/css/2.31461e4f.chunk.css",
+    "static/js/2.14596823.chunk.js": "/Avator_Wesbite_React/static/js/2.14596823.chunk.js",
+    "static/js/2.14596823.chunk.js.map": "/Avator_Wesbite_React/static/js/2.14596823.chunk.js.map",
+    "static/js/3.6c572a2b.chunk.js": "/Avator_Wesbite_React/static/js/3.6c572a2b.chunk.js",
+    "static/js/3.6c572a2b.chunk.js.map": "/Avator_Wesbite_React/static/js/3.6c572a2b.chunk.js.map",
+    "index.html": "/Avator_Wesbite_React/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Avator_Wesbite_React/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.9c00a2ce.chunk.css.map": "/Avator_Wesbite_React/static/css/main.9c00a2ce.chunk.css.map",
+    "static/js/2.14596823.chunk.js.LICENSE.txt": "/Avator_Wesbite_React/static/js/2.14596823.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Avator_Wesbite_React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6edf766.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.14596823.chunk.js",
+    "static/css/main.9c00a2ce.chunk.css",
+    "static/js/main.32a1efda.chunk.js"
+  ]
+}
